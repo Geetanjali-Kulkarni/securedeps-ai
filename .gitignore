@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+*.zip
+# local run outputs (add sample_results.csv deliberately when you publish it)
+eval_results.csv
+sample_repos.txt
+sample_results.csv
